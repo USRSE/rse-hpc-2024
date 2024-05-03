@@ -13,7 +13,7 @@ permalink: /committee/
 
 ## Program Committee
 
-- Radovan Bast, University of Tromsø - The Arctic University of Norway, Norway
+- Radovan Bast, University of TromsÃ¸ â The Arctic University of Norway, Norway
 - David Bernholdt, Oak Ridge National Laboratory, USA
 - Jeffrey Carver, University of Alabama, USA
 - Mozhgan Kabiri Chimeh, NVIDIA, UK
@@ -28,4 +28,3 @@ Innovation, UK
 - Miranda Mundt, Sandia National Laboratory, USA
 - Mahmood Mohammadi Shad, Harvard University, USA
 - Ben van Werkhoven, Netherlands eScience Center, Netherlands
-
