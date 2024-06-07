@@ -26,5 +26,7 @@ Innovation, UK
 - Helen Kershaw, National Center for Atmospheric Research, USA
 - Lauren Milechin, Massachusetts Institute of Technology, USA
 - Miranda Mundt, Sandia National Laboratory, USA
+- Uwe Schmitt, ETH Zürich, Switzerland
 - Mahmood Mohammadi Shad, Harvard University, USA
 - Ben van Werkhoven, Netherlands eScience Center, Netherlands
+- Menno van Zaanen, South African Centre for Digital Language Resources, South Africa
