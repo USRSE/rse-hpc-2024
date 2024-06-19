@@ -36,7 +36,7 @@ navbar-links:
 #    - Call for Papers: "call"
 #    - Committees: "committee"
   Agenda: "agenda"
-  Call for Papers: "call"
+  Call for Abstracts: "call"
   Committees: "committee"
 
 # --- Background colour/image options --- #
