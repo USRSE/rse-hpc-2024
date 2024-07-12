@@ -16,7 +16,7 @@ Other possible topics include, but are not limited to:
 - Building in RSE requirements as part of wider research infrastructure
 - Providing mentoring and training for RSEs
 
-The authors of accepted abstracts will be invited to present lightning talks or participate in panel discussions at the workshop. Note that SC24 is planning an in-person event and presenting in-person is encouraged. A supporting digital experience will accommodate those who cannot attend in-person due to travel restrictions or health concerns.
+The authors of accepted abstracts will be invited to present lightning talks or participate in panel discussions at the workshop. Note that SC24 is planning an in-person event and presenting in-person is encouraged. A supporting digital experience will accommodate those who cannot attend in-person due to travel restrictions or health concerns. Accepted abstracts will be posted on the workshop website as part of the agenda.
 
 We particularly encourage submissions from first-time conference presenters, and from members of groups that have historically been underrepresented in the HPC community.
 
