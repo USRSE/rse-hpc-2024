@@ -24,7 +24,7 @@ Sunday, November 17, 2024
         - _Increasing the effectiveness of mentoring programs: An RSE perspective_, Jean M. Sexton (Lawrence Berkeley National Laboratory)
         - _Connect with Computing in Science & Engineering: An IEEE Computer Society Magazine_, Jeffrey Carver (University of Alabama)
     - 5 min: Mini-break and panel setup
-    - 60 min: Panel: The Future of Computing
+    - 55 min: Panel: The Future of Computing
         - Kevin Gott,  National Energy Research Scientific Computing Center (NERSC)
         - Dali Wang, Oak Ridge National Laboratory
         - Shuxia Zhang, Engelhart Commodities Trading Partners
