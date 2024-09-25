@@ -28,7 +28,7 @@ Sunday, November 17, 2024
         - Kevin Gott,  National Energy Research Scientific Computing Center (NERSC)
         - Dali Wang, Oak Ridge National Laboratory
         - Shuxia Zhang, Engelhart Commodities Trading Partners
-        - Siegfried Höfinger, Technische Universität Wien
+        - Siegfried HÃ¸[Ifinger, Technische UniversitÃ¥Ã¥t
 - 12:30 pm - Lunch
 - 2:00 pm - Session 3
     - 60 min: Featured talk 2
