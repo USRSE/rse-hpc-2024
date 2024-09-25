@@ -17,12 +17,12 @@ Sunday, November 17, 2024
 - 10:00 am - Break
 - 10:30 am - Session 2
     - 60 min: Contributed talks 1
-        -_Applying Good Software Development Practices in HPC - Benchmarking As an Example_, Ilektra Christidi (University College London)
-        -_Ensuring the Consistent Delivery of Scientific Software_, Dave Brownell (Georgia Institute of Technology)
-        -_Bringing User Experience Practice to RSEs in HPC Ecosystems_, Drew Paine (Lawrence Berkeley National Laboratory)
-        -_Personalized Learning Pathways for upskilling RSEs_, Neil Chue Hong (University of Edinburgh)
-        -_Increasing the effectiveness of mentoring programs: An RSE perspective_, Jean M. Sexton (Lawrence Berkeley National Laboratory)
-        -_Connect with Computing in Science & Engineering: An IEEE Computer Society Magazine_, Jeffrey Carver (University of Alabama)
+        - _Applying Good Software Development Practices in HPC - Benchmarking As an Example_, Ilektra Christidi (University College London)
+        - _Ensuring the Consistent Delivery of Scientific Software_, Dave Brownell (Georgia Institute of Technology)
+        - _Bringing User Experience Practice to RSEs in HPC Ecosystems_, Drew Paine (Lawrence Berkeley National Laboratory)
+        - _Personalized Learning Pathways for upskilling RSEs_, Neil Chue Hong (University of Edinburgh)
+        - _Increasing the effectiveness of mentoring programs: An RSE perspective_, Jean M. Sexton (Lawrence Berkeley National Laboratory)
+        - _Connect with Computing in Science & Engineering: An IEEE Computer Society Magazine_, Jeffrey Carver (University of Alabama)
     - 5 min: Mini-break and panel setup
     - 60 min: Panel: The Future of Computing
         - Kevin Gott,  National Energy Research Scientific Computing Center (NERSC)
