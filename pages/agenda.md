@@ -12,7 +12,7 @@ Sunday, November 17, 2024
 
 - 9:00 am - Session 1
     - 5 min: Introduction and overview of day
-    - 55 min: Featured talk 1
+    - 55 min: Invited talk 1
         - _The Future and what to do about it:  Processors, People, and Programming_, Tim Mattson (retired)
 - 10:00 am - Break
 - 10:30 am - Session 2
@@ -25,13 +25,13 @@ Sunday, November 17, 2024
         - _Connect with Computing in Science & Engineering: An IEEE Computer Society Magazine_, Jeffrey Carver (University of Alabama)
     - 5 min: Mini-break and panel setup
     - 55 min: Panel: The Future of Computing
-        - Kevin Gott,  National Energy Research Scientific Computing Center (NERSC)
-        - Dali Wang, Oak Ridge National Laboratory
-        - Shuxia Zhang, Engelhart Commodities Trading Partners
-        - Siegfried Höfinger, Technische Universität Wien
+        - Kevin Gott (National Energy Research Scientific Computing Center)
+        - Dali Wang (Oak Ridge National Laboratory)
+        - Shuxia Zhang (Engelhart Commodities Trading Partners)
+        - Siegfried Höfinger (Technische Universität Wien)
 - 12:30 pm - Lunch
 - 2:00 pm - Session 3
-    - 60 min: Featured talk 2
+    - 60 min: Invited talk 2
         - Sheikh Ghafoor (National Science Foundation)
 - 3:00 pm - Break
 - 3:30 pm - Session 4
