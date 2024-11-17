@@ -18,9 +18,8 @@ Sunday, November 17, 2024
 - 10:30 am - Session 2
     - 60 min: Contributed talks 1
         - _Applying Good Software Development Practices in HPC - Benchmarking As an Example_, Ilektra Christidi (University College London)
-        - _Ensuring the Consistent Delivery of Scientific Software_, Dave Brownell (Georgia Institute of Technology)
         - _Bringing User Experience Practice to RSEs in HPC Ecosystems_, Drew Paine (Lawrence Berkeley National Laboratory)
-        - _Personalized Learning Pathways for upskilling RSEs_, Neil Chue Hong (University of Edinburgh)
+        - _Personalized Learning Pathways for upskilling RSEs_, Weronika Filinger (University of Edinburgh)
         - _Increasing the effectiveness of mentoring programs: An RSE perspective_, Jean M. Sexton (Lawrence Berkeley National Laboratory)
         - _Connect with Computing in Science & Engineering: An IEEE Computer Society Magazine_, Jeffrey Carver (University of Alabama)
     - 5 min: Mini-break and panel setup
@@ -37,7 +36,6 @@ Sunday, November 17, 2024
 - 3:30 pm - Session 4
     - 30 min: Contributed talks 2
         - _RSE Support for Georgia Tech's AI Makerspace_, Fang Liu (Georgia Institute of Technology)
-        - _Hiring and Building a Research Software Engineering Team_, Dave Brownell (Georgia Institute of Technology)
         - _Forging the Future of RSE: Self-Sustaining Operational Models and Growth Strategies_, Daniel Madren (Purdue University, Rosen Center for Advanced Computing)
     - 5 min: Mini-break and breakout setup
     - 55 min: Breakout discussions
